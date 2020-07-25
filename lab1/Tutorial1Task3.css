@@ -1,0 +1,23 @@
+body {	
+	color: white;
+	max-width: 960px;
+	margin: 10px auto;
+	background-color: #483D8B;
+	opacity: .9;
+}
+#WAT {
+	background-image: url(space.jpeg);
+}
+#links {
+	background-color: #ff4000;
+}
+#watL {
+	background-color: #ffbf00;
+}
+#watA {
+	background-color: #00cc99;
+}
+#property {
+	background-color: white;
+	color: black;
+}
